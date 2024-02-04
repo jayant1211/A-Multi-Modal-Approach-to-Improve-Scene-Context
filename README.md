@@ -1,6 +1,4 @@
 # A-Multi-Modal-Approach-to-Improve-Scene-Context
-This is the semester long project i did in my final year. An ensemble between vision model and image caption generators to improve overall context of the scene.
-
 
 ## WHAT AND WHY?
 Scene classification is a crucial tool in computer vision, helping organize and categorize the massive influx of daily-uploaded internet images. With diverse applications such as object detection and activity recognition, it impacts areas like blind assistance, autonomous vehicles, robotics, and augmented reality. Our study proposes an integrated approach using CNNs and LSTM for efficient scene evaluation, demonstrating a solid 81.3% test accuracy with our custom model. This highlights the importance of accurate and efficient scene classification algorithms in computer vision research and development.
